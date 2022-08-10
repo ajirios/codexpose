@@ -1,2 +1,2 @@
 # codexpose
-A platform for curating coding interview questions.
+A platform for getting your coding interview questions solved.
