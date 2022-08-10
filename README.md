@@ -1,2 +1,2 @@
-# CodExpose
-A platform for getting your coding interview questions solved.
+# CodeXpose
+An online publication service for releasing research papers on coding interview questions.
